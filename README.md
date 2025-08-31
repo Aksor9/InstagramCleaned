@@ -1,4 +1,4 @@
-# 📱 Instagram Cleaner – Android App (Kotlin)
+# 📱 Instagram Cleaned – Android App (Kotlin)
 
 **Status:** ⏸️ Project on hold
 
